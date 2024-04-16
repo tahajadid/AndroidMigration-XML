@@ -1,4 +1,4 @@
-package com.example.androidmigration_xml // ktlint-disable package-name
+package com.example.androidmigration_xml.ui // ktlint-disable package-name
 
 import android.content.Intent
 import android.net.Uri
@@ -7,7 +7,8 @@ import android.widget.Button
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.androidmigration_xml.StaticsElements.VERSION_LIST
+import com.example.androidmigration_xml.R
+import com.example.androidmigration_xml.util.StaticsElements.VERSION_LIST
 
 class MainActivity : AppCompatActivity() {
 

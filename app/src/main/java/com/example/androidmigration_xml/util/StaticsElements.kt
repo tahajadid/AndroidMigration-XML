@@ -1,4 +1,6 @@
-package com.example.androidmigration_xml
+package com.example.androidmigration_xml.util
+
+import com.example.androidmigration_xml.data.VersionInfo
 
 object StaticsElements {
 
