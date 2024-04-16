@@ -1,4 +1,4 @@
-package com.example.androidmigration_xml // ktlint-disable package-name
+package com.example.androidmigration_xml.data // ktlint-disable package-name
 
 /**
  * data class for Version information

@@ -1,4 +1,4 @@
-package com.example.androidmigration_xml
+package com.example.androidmigration_xml.ui
 
 import android.annotation.SuppressLint
 import android.content.Context
@@ -8,6 +8,8 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.example.androidmigration_xml.R
+import com.example.androidmigration_xml.data.VersionInfo
 
 class VersionAdapter(
     private val context: Context?,
